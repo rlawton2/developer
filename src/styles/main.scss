@@ -191,6 +191,15 @@ body {
   margin: 10px auto;
 }
 
+.image-block {
+  float: center;
+  div {
+    width: 700px ;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .user-projects {
   margin: 40px auto;
   img {
