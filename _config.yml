@@ -1,12 +1,12 @@
 # Site settings
-title: Ronnie Lawton's website
+title: Welcome
 description: A software development website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ronnie Lawton
-user_description: This website was created to demonstrate my wokring knowledge in software development.
+user_description: This website was created to demonstrate a working knowledge in software development.
 user_title: Software Developer
 email: rlawton1234@gmail.com
 github_username:  rlawton2
