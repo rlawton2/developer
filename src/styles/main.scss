@@ -192,13 +192,10 @@ body {
 }
 
 .image-block {
-  float: center;
-  div {
-    width: 700px ;
+    display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto
   }
-}
 
 .user-projects {
   margin: 40px auto;
