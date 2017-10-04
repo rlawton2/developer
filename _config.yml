@@ -1,12 +1,12 @@
 # Site settings
 title: Welcome
-description: A software development website
+description: A site dedicated to software development
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ron Lawton
-user_description: I enjoy finding solutions to problems and exploring new technologies. This website was created to provide acces to some of the projects I have been involved with.
+user_description: I enjoy finding solutions to problems and exploring new technologies. This website was created to provide information about me and some of the projects I have been involved with.
 user_title: Software Developer
 email: rlawton1234@gmail.com
 github_username:  rlawton2
