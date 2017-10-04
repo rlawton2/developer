@@ -4,6 +4,7 @@ $purple: #54516A;
 $cut: 768px;
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Josefin Slab');
 
 body {
   margin: 0;
@@ -176,7 +177,7 @@ body {
 .user {
   text-align: center;
   margin: 20px auto;
-  font-family: 'Junction', sans-serif;
+  font-family: 'Josefin Slab', sans-serif;
   font-size: 60px;
   p {
     font-size: 16px;
@@ -188,7 +189,7 @@ body {
 
 .user-details {
   text-align: center;
-  font-family: 'Junction', sans-serif;
+  font-family: 'Josefin Slab', sans-serif;
   font-size: 16px;
   margin: 10px auto;
 }
