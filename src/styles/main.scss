@@ -81,6 +81,7 @@ body {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
+    font-family: "Cinzel", serif;
     font-size: 50px;
     display: block;
     line-height: 1;
@@ -90,6 +91,7 @@ body {
     }
   }
   .site-description {
+    font-family: "Cinzel", serif;
     font-size: 20px;
     display: block;
     line-height: 1;
@@ -189,7 +191,6 @@ body {
 
 .user-details {
   text-align: center;
-  font-family: "Cinzel", serif !important;
   font-size: 16px;
   margin: 10px auto;
 }
@@ -206,9 +207,6 @@ body {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
-  }
-  h1 {
-    font-family= 'Cinzel', serif;
   }
   h5 {
     margin: 0;
