@@ -177,7 +177,7 @@ body {
 .user {
   text-align: center;
   margin: 20px auto;
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', serif !important;
   font-size: 60px;
   p {
     font-size: 16px;
@@ -189,7 +189,7 @@ body {
 
 .user-details {
   text-align: center;
-  font-family: "Cinzel", serif;
+  font-family: "Cinzel", serif !important;
   font-size: 16px;
   margin: 10px auto;
 }
