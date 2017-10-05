@@ -4,7 +4,6 @@ $purple: #54516A;
 $cut: 768px;
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
-@import url('https://fonts.googleapis.com/css?family=Cinzel');
 
 body {
   margin: 0;
@@ -81,7 +80,6 @@ body {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-family: 'Cinzel', serif;
     font-size: 50px;
     display: block;
     line-height: 1;
@@ -91,7 +89,6 @@ body {
     }
   }
   .site-description {
-    font-family: 'Cinzel', serif;
     font-size: 20px;
     display: block;
     line-height: 1;
